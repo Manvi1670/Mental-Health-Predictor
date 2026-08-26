@@ -11,8 +11,7 @@ import "./MentalHealthPredictor.css";
  * changes, update PLATFORM_OPTIONS / PURPOSE_OPTIONS / STRESS_OPTIONS /
  * COUNTRY_SUGGESTIONS below to match.
  */
-
-const API_URL = "https://mental-health-predictor-0va6.onrender.com";
+const API_URL = "https://mental-health-predictor-0va6.onrender.com/predict";
 
 const PLATFORM_OPTIONS = [
   "Facebook", "LinkedIn", "Instagram", "Snapchat", "Twitter", "YouTube",
